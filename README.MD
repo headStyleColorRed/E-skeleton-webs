@@ -20,11 +20,11 @@ cd E-skeleton-webs && docker-compose up -d ;
 ```
 
 #### Add website
-With a simple ```sh npm start ```a terminal cli will ask you several questions:
-    1. Project's name                                                              // Your projects name
-    2. Which url you want to use (example.com)?                                    // The domain you have pointing to that server without the www
-    3. Which email do you want to use?                                             // Your email
-    4. Source of index files or dist folder?                                       // The github repository where index.html file is root
+With a simple ```npm start ```a terminal cli will ask you several questions:
+1.  Project's name                                                              // Your projects name
+2.  Which url you want to use (example.com)?                                    // The domain you have pointing to that server without the www
+3.  Which email do you want to use?                                             // Your email
+4.  Source of index files or dist folder?                                       // The github repository where index.html file is root
 
 And just like that your website will be up and going with an https lock.
 
